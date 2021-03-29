@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Contathos</string>
+    <string name="iv_photograph_content_description" />
 </resources>
