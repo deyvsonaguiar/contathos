@@ -1,7 +1,7 @@
 package com.deyvsonaguiar.contathos
 
-class Contact {
+class Contact(
     var name: String,
     var phone: String,
     var photograph: String
-}
+) {}
